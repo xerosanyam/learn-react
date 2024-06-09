@@ -1,4 +1,4 @@
-# React + TypeScript + Vite
+# bun + vite + React + TypeScript
 
 A sample project, to get a glimpse of basic react project setup.
 
